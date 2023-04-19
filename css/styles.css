@@ -1,0 +1,134 @@
+body{
+   text-align: center;
+   width:100%;
+}
+h1{
+  text-align: center;
+  padding-top:12%;
+    font-family:"Sacramento", cursive;
+}
+p{
+  padding-top: 3%;
+}
+
+
+/* Navigation Bar */
+
+.navbar{
+    background-color:burlywood;
+    width: 100%;
+
+}
+
+.navbar-brand{
+
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin:0 1.5rem;
+
+}
+
+
+.navbar-nav{
+    text-align: left;
+}
+
+.nav-item{
+
+    padding: 0 18px;
+}
+.nav-link{
+
+    font-size: 1.2rem;
+}
+
+
+/* top section */
+
+
+#carouselExampleFade{
+  position:absolute;
+  z-index: -1;
+    width: 100%;
+}
+
+
+/* Survice section */
+.card-text{
+  font-family:serif;
+  color:#3e4d5a;
+  text-align: left;
+}
+.card-title{
+  font-size: 1.8rem;
+  padding-left:0;
+}
+#header-text{
+  font-family:serif;
+  color:#3e4d5a;
+}
+h2,h5{
+  font-family:serif;
+  padding-left: 10%;
+  padding-right: 10%;
+
+}
+#survice-div{
+  margin:5%;
+}
+#survice{
+  color:#fff;
+  margin-top:8%;
+  text-align: center;
+}
+.row{
+margin-left: 10%;
+    padding:5%;
+}
+.card{
+  width:75%;
+  margin-left:12.5%;
+text-align: left;
+}
+.col{
+  margin: 5% 0;
+
+}
+
+/* span{
+  background-color: bisque;
+} */
+
+
+
+/* booking section */
+#booking{
+  width:100%;
+}
+
+/* footer */
+
+.footer-link{
+    color: bisque;
+    padding:2% 1%;
+    margin: 2% 1%;
+}
+
+.footer-link :hover{
+  color:#3e4d5a;
+}
+
+.footer-links2{
+text-align: right;
+padding-top:5%;
+}
+
+.footer-link2{
+  color:bisque;
+  text-decoration: underline;
+  padding-right:5%;
+}
+.footer-link2 :hover{
+  color:#3e4d5a;
+}
